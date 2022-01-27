@@ -1,1 +1,2 @@
-Hi, This is the devops course testing file.
+Hi, This is the devops course testing file. But I want to do some changes now.
+Please commit thus also.
